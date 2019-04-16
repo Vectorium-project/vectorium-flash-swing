@@ -1,1 +1,1 @@
-# vectorium-flash-swing
+GUI Version for Vectorium's SimpleWallet
